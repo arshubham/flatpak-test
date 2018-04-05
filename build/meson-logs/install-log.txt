@@ -1,0 +1,17 @@
+# List of files installed by Meson
+# Does not contain files installed by custom scripts.
+/usr/local/bin/com.github.arshubham.cipher
+/usr/local/share/icons/hicolor/16x16/apps/com.github.arshubham.cipher.svg
+/usr/local/share/icons/hicolor/24x24/apps/com.github.arshubham.cipher.svg
+/usr/local/share/icons/hicolor/32x32/apps/com.github.arshubham.cipher.svg
+/usr/local/share/icons/hicolor/48x48/apps/com.github.arshubham.cipher.svg
+/usr/local/share/icons/hicolor/64x64/apps/com.github.arshubham.cipher.svg
+/usr/local/share/icons/hicolor/128x128/apps/com.github.arshubham.cipher.svg
+/usr/local/share/template-for-vala-apps/images/com.github.arshubham.cipher.svg
+/usr/local/share/pixmaps/com.github.arshubham.cipher.png
+/usr/local/share/applications/com.github.arshubham.cipher.desktop
+/usr/local/share/metainfo/com.github.arshubham.cipher.appdata.xml
+/usr/local/share/glib-2.0/schemas/com.github.arshubham.cipher.gschema.xml
+/usr/local/share/pixmaps
+/usr/local/share/template-for-vala-apps/images
+/usr/local/share/template-for-vala-apps

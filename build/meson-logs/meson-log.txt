@@ -1,0 +1,54 @@
+Build started at 2018-03-25T18:15:36.167754
+Main binary: /usr/bin/python3
+Python system: Linux
+The Meson build system
+Version: 0.45.0
+Source dir: /home/shubhamarora/cipher
+Build dir: /home/shubhamarora/cipher/build
+Build type: native build
+Project name: com.github.arshubham.cipher
+Sanity testing C compiler: cc
+Is cross compiler: False.
+Sanity check compiler command line: cc /home/shubhamarora/cipher/build/meson-private/sanitycheckc.c -o /home/shubhamarora/cipher/build/meson-private/sanitycheckc.exe
+Sanity check compile stdout:
+
+-----
+Sanity check compile stderr:
+
+-----
+Running test binary command: /home/shubhamarora/cipher/build/meson-private/sanitycheckc.exe
+Native C compiler: cc (gcc 5.4.0 "cc (Ubuntu 5.4.0-6ubuntu1~16.04.9) 5.4.0 20160609")
+Running compile:
+Working directory:  /tmp/tmpnrac8ruu
+Command line:  valac /tmp/tmpnrac8ruu/testfile.vala -C -C -o /tmp/tmpnrac8ruu/output.obj 
+
+Code:
+ class MesonSanityCheck : Object { }
+Compiler stdout:
+ Compilation succeeded - 1 warning(s)
+
+Compiler stderr:
+ warning: --output and -o have no effect when -C or --ccode is set
+
+Native Vala compiler: valac (valac 0.40.0)
+Build machine cpu family: x86_64
+Build machine cpu: x86_64
+Found pkg-config: /usr/bin/pkg-config (0.28)
+Determining dependency 'glib-2.0' with pkg-config executable '/usr/bin/pkg-config'
+Native dependency glib-2.0 found: YES 2.48.2
+WARNING: GLib compiled dependencies do not work reliably with 
+the current version of GLib. See the following upstream issue: https://bugzilla.gnome.org/show_bug.cgi?id=774368
+Configuring config.h using configuration
+Determining dependency 'granite' with pkg-config executable '/usr/bin/pkg-config'
+Native dependency granite found: YES 0.5
+Determining dependency 'gobject-2.0' with pkg-config executable '/usr/bin/pkg-config'
+Native dependency gobject-2.0 found: YES 2.48.2
+Determining dependency 'gtk+-3.0' with pkg-config executable '/usr/bin/pkg-config'
+Native dependency gtk+-3.0 found: YES 3.18.9
+Determining dependency 'glib-2.0' with pkg-config executable '/usr/bin/pkg-config'
+Native dependency glib-2.0 found: YES 2.48.2
+Determining dependency 'gee-0.8' with pkg-config executable '/usr/bin/pkg-config'
+Native dependency gee-0.8 found: YES 0.20.0
+Program post_install.py found: YES (/usr/bin/env python3 /home/shubhamarora/cipher/post_install.py)
+Build targets in project: 3
+Found ninja-1.8.2 at /usr/bin/ninja
