@@ -52,6 +52,7 @@
   </description>
   <url type="homepage">https://github.com/arshubham/cipher</url>
   <url type="bugtracker">https://github.com/arshubham/cipher/issues</url>
+  <url type="help">shubhamarora.in</url>
   <update_contact>shubhamarora@protonmail.com</update_contact>
   <custom>
     <value key="x-appcenter-color-primary">#BA635C</value>
